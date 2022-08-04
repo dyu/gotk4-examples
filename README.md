@@ -95,3 +95,11 @@ go run -v ./gtk4/simple
 **Important:** if you don't run with `-v`, you might start wondering if `go run`
 is hung or not. Always keep in mind that building `gotk4` will be very slow at
 first, and **the slow building is normal**.
+
+---
+
+`@dyu`
+```sh
+./shell.sh
+./run.sh ./gtk4/simple
+```
